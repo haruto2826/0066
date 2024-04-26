@@ -3,7 +3,8 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-横浜DeNAベイスターズ
+# 　*横浜DeNAベイスターズ*
+#           *山本祐大*
 
 
 
